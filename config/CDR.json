@@ -9,7 +9,7 @@
         "tb_logger": "tb_logger",
         "results": "results",
         "checkpoint": "checkpoint",
-        "resume_state": "/home/percv-d10/handongshen/git/han/image-resolution-unet/experiments/end/old/CDR/old/7x7/20000/I600000_E9678"
+        "resume_state": "./ckp/CDR"
     },
     "datasets": {
         "train": {
