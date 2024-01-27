@@ -1,0 +1,1 @@
+python sr.py -p val -c config/sample_sr3_128.json -data_path /home/percv-d10/handongshen/git/han/semantic-diffusion-model/data/reflect/CDR/strong/
