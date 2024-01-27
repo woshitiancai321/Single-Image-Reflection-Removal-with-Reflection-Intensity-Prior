@@ -9,7 +9,7 @@
         "tb_logger": "tb_logger",
         "results": "results",
         "checkpoint": "checkpoint",
-        "resume_state": "/home/percv-d10/handongshen/git/han/image-resolution-unet/experiments/end/old/object20000/I60000_E78"
+        "resume_state": "./ckp/real"
     },
     "datasets": {
         "train": {
